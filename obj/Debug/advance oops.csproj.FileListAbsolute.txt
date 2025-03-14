@@ -1,0 +1,7 @@
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\bin\Debug\advance oops.exe.config
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\bin\Debug\advance oops.exe
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\bin\Debug\advance oops.pdb
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\obj\Debug\advance oops.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\obj\Debug\advance oops.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\obj\Debug\advance oops.exe
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\daily task\advance oops\advance oops\obj\Debug\advance oops.pdb
